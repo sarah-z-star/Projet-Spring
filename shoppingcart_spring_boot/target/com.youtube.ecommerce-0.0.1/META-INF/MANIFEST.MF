@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: asus
+Build-Jdk: version 1.8.0_251
+Implementation-Title: youtube_ecommerce_app
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: youtube_ecommerce_app
+Main-Class: ${start-class}
+

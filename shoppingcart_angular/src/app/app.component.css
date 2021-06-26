@@ -1,0 +1,30 @@
+.modal.fade.in{
+    display: block;
+}
+#horizontalTab.login .tab-1.resp-tab-content{
+display: block;
+}
+#horizontalTab.register .tab-2.resp-tab-content{
+    display: block;
+}
+.w3l_login .username{
+    color: #ff5063;
+}
+
+.checkout-count-wrap{
+    position: relative;
+}
+.total_count_checkout{
+    position: absolute;
+    top: -15px;
+    right: -7px;
+    z-index: 1000;
+    color: #ff5063;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.agile_ecommerce_tab_left{
+    margin-bottom: 5%;
+}
+
